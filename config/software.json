@@ -32,6 +32,13 @@
             "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
         ]
     },
+    "scuttle.exe": {
+        "help": "Demonstrate some rendering features",
+        "clear": true,
+        "message": [
+            "<p class=glow style='font-size: 3em'>⚠ ABANDON SHIP ⚠</p>",
+        ]
+    },
     "artifact": {},
     "decrypt": {},
     "identify": {}

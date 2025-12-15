@@ -36,7 +36,7 @@
         "help": "Destroy the ship",
         "clear": true,
         "message": [
-            "<p class=glow style='font-size: 3em'>⚠ ABANDON SHIP ⚠</p>",
+            "<p class=glow style='font-size: 3em'>⚠ ABANDON SHIP ⚠</p>"
         ]
     },
     "artifact": {},
